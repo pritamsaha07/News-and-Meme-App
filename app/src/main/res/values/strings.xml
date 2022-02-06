@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LordPritam</string>
+    <string name="Welcome">Lord Pritam</string>
+    <string name="news">News</string>
+    <string name="meme">Meme</string>
+    <string name="next">Next</string>
+    <string name="share">Share</string>
+    <string name="pritam">Pritam</string>
+</resources>
